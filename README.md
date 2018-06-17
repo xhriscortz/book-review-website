@@ -1,7 +1,7 @@
 # Book Review Website
 
 
-##How to run:
+#How to run:
 1. Clone directory
 2. Navigate to directory Book Review Website
 3. Open file entertainment.py using IDLE
